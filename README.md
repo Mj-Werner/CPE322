@@ -2,6 +2,8 @@
 ## Engineering Design VI [Group Project Site](google.com)
 ### Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
+
+#### I am looking to borrow a *Raspberry Pi* for an Electrical Engineering project
 ---
 ### Electrical Engineering major and Computer Science Minor at Stevens Institue of Technology
 **Current courses:**
