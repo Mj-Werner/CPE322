@@ -3,8 +3,7 @@
 ### Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
 ---
-### Electrical Engineering major at Stevens Institue of Technology
-### Computer Science Minor
+### Electrical Engineering major and Computer Science Minor at Stevens Institue of Technology
 **Current courses:**
 1. EE-322
 2. EE-448
