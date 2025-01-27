@@ -1,9 +1,10 @@
-# CPE322
-Design 6
+# CPE322 Repo
+##Engineering Design VI
+###*Matthew Werner*
+---
+##Electrical Engineering major at Stevens Institue of Technology
+###Computer Science Minor
+[LinkedIn Profile](www.linkedin.com/in/matthew-werner-883953240)
 
-[Cheat Sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-**I pledge my Honor that I have Abided by the Stevens Honor System**
-
-*Matthew Werner*
 
