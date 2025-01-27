@@ -1,5 +1,5 @@
 # CPE322 Repo
-## Engineering Design VI
+## Engineering Design VI [Group Project Site](google.com)
 ### Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
 ---
@@ -15,6 +15,8 @@
 7. EE-478
 
 ---
+![headshot](https://github.com/user-attachments/assets/57ea0bc5-00d7-44ee-beab-4fbf49803a2a)
+
 [LinkedIn Profile](www.linkedin.com/in/matthew-werner-883953240)
 
 **Soft Skills**
@@ -34,4 +36,18 @@ int main() {
 }
 }
 ```
+---
+# Labs
+
+## [Lab0](https://github.com/Mj-Werner/CPE322.git)
+
+## Lab1
+
+## Lab2
+
+## Lab3
+
+## Lab4
+
+
 
