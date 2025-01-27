@@ -37,6 +37,8 @@ int main() {
 }
 ```
 ---
+# Project
+---
 # Labs
 
 ## [Lab0](https://github.com/Mj-Werner/CPE322.git)
