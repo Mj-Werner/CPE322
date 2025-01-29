@@ -10,6 +10,7 @@ I was able to download and install each of the programs to my system using the s
 "gtkwave-3.3.100-bin-win32"
 
 ## 2) Building and Running Each of the Templates.
+All of the code was edited and written with [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B).
 
 ### [Half adder (ha)](/lab1/ha)
 For this file, I followed the video referenced above to create my file and run the demonstration on my computer without using the files that are present in the EE-322 GHDL folder. The main difference in my implementation
