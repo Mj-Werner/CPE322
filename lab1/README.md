@@ -11,7 +11,7 @@ I was able to download and install each of the programs to my system using the s
 
 ## 2) Building and Running Each of the Templates.
 
-### [Half adder (ha)](lab1/ha)
+### [Half adder (ha)](/lab1/ha)
 For this file, I followed the video referenced above to create my file and run the demonstration on my computer without using the files that are present in the EE-322 GHDL folder. The main difference in my implementation
 is the use of "o" as completed in the video tutorial, instead of "s" mentioned in the EE-322 example file. The following is a picture of the results after running the following commands and viewing the results in GTKWave:  
 
@@ -26,8 +26,8 @@ $gtkwave ha.vcd
 
 ![ha_pic](/lab1/ha/half_adderWaveform.png)
 
-### [4-to-1 Multiplexer (mux)](lab1/mux)
-For these files, I downloaded the example files that were in the provided [repo](https://github.com/kevinwlu/dsd/tree/master/ghdl). I edited the corresponding [mux_tb](lab1/mux/mux_tb.vhdl) file to assert the same error 
+### [4-to-1 Multiplexer (mux)](/lab1/mux)
+For these files, I downloaded the example files that were in the provided [repo](https://github.com/kevinwlu/dsd/tree/master/ghdl). I edited the corresponding [mux_tb](/lab1/mux/mux_tb.vhdl) file to assert the same error 
 as the previous file to know when the tests have been completed. You will see the same assert error within the command line arguments below. The picture is the result of running the command line arguments on the 
 files and viewing the results within GTKWave:
 
