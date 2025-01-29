@@ -42,7 +42,7 @@ int main() {
 
 ## [Lab0](https://github.com/Mj-Werner/CPE322.git)
 
-## Lab1
+## [Lab1](lab1)
 
 ## Lab2
 
