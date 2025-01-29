@@ -24,7 +24,7 @@ ha_tb.vhdl:48:16:@5ns:(assertion error): Reached end of test
 $gtkwave ha.vcd
 ```
 
-![ha_pic]()
+![ha_pic](/lab1/ha/half_adderWaveform.png)
 
 ### [4-to-1 Multiplexer (mux)](lab1/mux)
 For these files, I downloaded the example files that were in the provided [repo](https://github.com/kevinwlu/dsd/tree/master/ghdl). I edited the corresponding [mux_tb](lab1/mux/mux_tb.vhdl) file to assert the same error 
@@ -39,5 +39,5 @@ $ ghdl -r mux_tb --vcd=mux.vcd
 .\mux_tb.vhdl:71:10:@500ns:(assertion error): Reached end of test
 $gtkwave mux.vcd
 ```
-![mux_pic](lab1/mux/4_to_1_mux.png)
+![mux_pic](/lab1/mux/4_to_1_mux.png)
 
