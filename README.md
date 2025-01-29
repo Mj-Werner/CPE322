@@ -1,6 +1,6 @@
 # CPE322 Repo
 ## Engineering Design VI [Group Project Site](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
-### Written and designed by *Matthew Werner*
+Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
 ---
 ### Electrical Engineering major and Computer Science Minor at Stevens Institue of Technology
