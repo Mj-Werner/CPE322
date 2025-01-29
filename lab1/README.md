@@ -16,6 +16,7 @@ All of the code was edited and written with [Notepad++](https://en.wikipedia.org
 For this file, I followed the video referenced above to create my file and run the demonstration on my computer without using the files that are present in the EE-322 GHDL folder. The main difference in my implementation
 is the use of "o" as completed in the video tutorial, instead of "s" mentioned in the EE-322 example file. The following is a picture of the results after running the following commands and viewing the results in GTKWave:  
 
+`Command Line Agruments`
 ```sh
 $ ghdl -a ha.vhdl
 $ ghdl -a ha_tb.vhdl
@@ -24,7 +25,6 @@ $ ghdl -r ha_tb --vcd=ha.vcd
 ha_tb.vhdl:48:16:@5ns:(assertion error): Reached end of test
 $gtkwave ha.vcd
 ```
-
 ![ha_pic](/lab1/ha/half_adderWaveform.png)
 
 ### [4-to-1 Multiplexer (mux)](/lab1/mux)
@@ -32,6 +32,7 @@ For these files, I downloaded the example files that were in the provided [repo]
 as the previous file to know when the tests have been completed. You will see the same assert error within the command line arguments below. The picture is the result of running the command line arguments on the 
 files and viewing the results within GTKWave:
 
+`Command Line Agruments`
 ```sh
 $ ghdl -a .\mux.vhdl
 $ ghdl -a .\mux_tb.vhdl
