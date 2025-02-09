@@ -40,11 +40,11 @@ int main() {
 ---
 # Labs
 
-## [Lab0](https://github.com/Mj-Werner/CPE322.git)
+## [Lab0 - Github Account Creation](https://github.com/Mj-Werner/CPE322.git)
 
-## [Lab1](lab1)
+## [Lab1 - GHDL and GTKWave](lab1)
 
-## Lab2
+## [Lab2 - Command Line Agruments](lab2)
 
 ## Lab3
 
