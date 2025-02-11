@@ -1,6 +1,6 @@
 # Lab 2 - Command Line 
 For this lab, the task is to learn basic command-line interface commands and clone a GitHub repository directly to your computer. Each section will have a command and the resolution after running on my laptop. In the absence of a Linux terminal, I used the Ubuntu Linux environment as a replacement. I used the following website to get the description for each command [website](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/).
-
+---
 
 `Command 1: hostname`
 ```sh
