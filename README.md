@@ -2,6 +2,33 @@
 ## Engineering Design VI [Group Project Site](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
 Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
+
+---
+# Project - Automated Student
+---
+# Labs
+
+## [Lab0 - Github Account Creation](https://github.com/Mj-Werner/CPE322.git)
+
+## [Lab1 - GHDL and GTKWave](lab1)
+
+## [Lab2 - Command Line Agruments](lab2)
+
+## [Lab3 - Python](lab3)
+
+## Lab4
+
+## Lab5
+
+## Lab6
+
+## Lab7
+
+## Lab8
+
+## Lab9
+
+## Lab10
 ---
 ### Electrical Engineering major and Computer Science Minor at Stevens Institue of Technology
 **Current courses:**
@@ -35,29 +62,3 @@ int main() {
 }
 }
 ```
----
-# Project
----
-# Labs
-
-## [Lab0 - Github Account Creation](https://github.com/Mj-Werner/CPE322.git)
-
-## [Lab1 - GHDL and GTKWave](lab1)
-
-## [Lab2 - Command Line Agruments](lab2)
-
-## [Lab3 - Python](lab3)
-
-## Lab4
-
-## Lab5
-
-## Lab6
-
-## Lab7
-
-## Lab8
-
-## Lab9
-
-## Lab10
