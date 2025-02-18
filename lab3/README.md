@@ -1,5 +1,5 @@
 # Lab 3 - Python
-For this lab, we are learning the basics of different python codes and some extensions. The extensions being used are [Astral](https://astral.readthedocs.io/en/latest/), [GeoPy](https://geopy.readthedocs.io/en/stable/), [psutil](https://pypi.org/project/psutil/), and [jdcal](https://pypi.org/project/jdcal/). All the files used for this lab were found on the class repo [here](https://github.com/kevinwlu/iot/tree/master/lesson3). All scripts were run on a Unbuntu Linux environment with python3 installed.
+For this lab, we are learning the basics of different Python scripts and some extensions. The extensions being used are [Astral](https://astral.readthedocs.io/en/latest/), [GeoPy](https://geopy.readthedocs.io/en/stable/), [psutil](https://pypi.org/project/psutil/), and [jdcal](https://pypi.org/project/jdcal/). All the files used for this lab were found on the class repo [here](https://github.com/kevinwlu/iot/tree/master/lesson3). All scripts were run on a Unbuntu Linux environment with python3 installed.
 ---
 
 
@@ -27,7 +27,7 @@ Year: 2025
 78 days before the last day of classes
 ```
 [date_example.py](date_example.py)  
-Displays the current date in different formats, day of the week, month, year, and how many days after the first day of classes and how many days until the last day of classes for Stevens Institute of technology.
+Displays the current date in different formats, day of the week, month, year, and how many days after the first day of classes and how many days until the last day of classes for Stevens Institute of Technology.
 
 `Script 3: datetime_example.py`
 ```sh
@@ -177,8 +177,9 @@ Displays the current battery percentage of the Computer. Since I am running thes
 ```sh
 $ python3 documentstats.py document.txt
 Word Count: 1343
-Top Ten Words: [('our', 26), ('their', 20), ('has', 20), ('he', 19), ('them', 15), ('these', 13), ('have', 11), ('we', 11), ('us', 11), ('people', 10)]
+Top Ten Words: [('our', 26), ('their', 20), ('has', 20), ('he', 19), ('them', 15), ('these', 13), ('have', 11)
+,('we', 11), ('us', 11), ('people', 10)]
 ```
 [documentstats.py](documentstats.py)  [document.txt](document.txt)
-Reads in from a text file and displays the most popular words in the document that are not part of a certain subsection of words "stopwords" in the code.
+Reads in from a text file and displays the most popular words in the document that are not part of a certain subsection of words "stopwords" in the code. In this case, the document is a printout of the "Declaration of Independance".
 
