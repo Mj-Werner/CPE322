@@ -46,7 +46,7 @@ int main() {
 
 ## [Lab2 - Command Line Agruments](lab2)
 
-## Lab3
+## [Lab3 - Python](lab3)
 
 ## Lab4
 
