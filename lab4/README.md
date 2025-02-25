@@ -9,6 +9,7 @@ After successfully setting up my server and running it. I got this message:
 To edit the Python files in the Visual Studio code editor. I was able to link my first site and display the message inside of the code:
 ![Success](https://github.com/user-attachments/assets/b344a995-6320-46b8-a169-dc95df80bba4)
 
-# 
+# Lab 4 part 1
+The rest of the tutorial came from the class [repo](https://github.com/kevinwlu/iot/tree/master/lesson4). Following these directions I was able to
 
 
