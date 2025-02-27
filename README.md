@@ -4,7 +4,7 @@ Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
 
 ---
-# Project - Automated Student
+# Project - [Automated Student](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
 ---
 # Labs
 
@@ -16,7 +16,7 @@ Written and designed by *Matthew Werner*
 
 ## [Lab3 - Python](lab3)
 
-## Lab4
+## [Lab4 - Django and Flask](lab4)
 
 ## Lab5
 
