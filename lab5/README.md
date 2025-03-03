@@ -1,4 +1,4 @@
-# Lab 5 - Paho and MQTT
+# Lab 5 - Paho-MQTT
 The goal of today's lab was to use [Paho](https://wiki.eclipse.org/Paho/) and [MQTT](https://www.youtube.com/watch?v=t5b7gGYAezQ) to show the process of using these programs to send data/information from one terminal to
 the next.  
 Before we get into the lab, I downloaded the latest version of Paho-MQTT. The info for install and more information about the topics can be found [here](https://github.com/kevinwlu/iot/tree/master/lesson5):
