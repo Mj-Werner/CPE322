@@ -15,7 +15,7 @@ Successfully installed paho-mqtt-2.1.0
 ```
 
 ## Running subcpu.py and pubcpu.py
-In this section, I will show running both the [subcpu.py]() and the [pubcpu.py]() Python files and the information that they send to each other. The following is the terminal's outputs
+In this section, I will show running both the [subcpu.py](subcpu.py) and the [pubcpu.py](pubcpu.py) Python files and the information that they send to each other. The following is the terminal's output.
 
 `subcpu.py terminal`
 ```sh
