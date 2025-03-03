@@ -18,7 +18,7 @@ Written and designed by *Matthew Werner*
 
 ## [Lab4 - Django and Flask](lab4)
 
-## [Lab5 - Paho MQTT](lab5)
+## [Lab5 - Paho-MQTT](lab5)
 
 ## Lab6
 
