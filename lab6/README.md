@@ -24,7 +24,7 @@ request end event fired
 response end call done
 request end event fired
 ```
-The "response end call done" and "request end event fired" messages appeared after refreshing the browser and after it finished refreshing, respectively.
+The "response end call done" and "request end event fired" messages appeared after refreshing the browser and after it finished refreshing, respectively.  
 ![hello.js running](https://github.com/user-attachments/assets/87472499-a78f-41ee-9c36-11721dfbfba9)
 
 
@@ -46,7 +46,7 @@ $ node http.js
 ```
 ![https runnning](https://github.com/user-attachments/assets/608a5886-df7b-4687-b697-07c540fcc485)
 
-## Pystache - say_hello.mustache say_hello.py
+## Pystache - [say_hello.mustache](say_hello.mustache) and [say_hello.py](say_hello.py)
 This part of the lab showcases, "[Pystache](http://defunkt.github.com/pystache) is a Python
 implementation of [Mustache](http://mustache.github.com/). Mustache is a
 framework-agnostic, logic-free templating system inspired by
