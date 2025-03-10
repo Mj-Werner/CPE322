@@ -4,7 +4,7 @@ Written and designed by *Matthew Werner*
 > "The path to loving life, starts with loving yourself"
 
 ---
-# Project - [Automated Student](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
+# Project - [Kognify AI Learning KAI](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
 ---
 # Labs
 
@@ -20,7 +20,7 @@ Written and designed by *Matthew Werner*
 
 ## [Lab5 - Paho-MQTT](lab5)
 
-## Lab6
+## [Lab6 - Node.js and Pystache](lab6)
 
 ## Lab7
 
@@ -30,7 +30,7 @@ Written and designed by *Matthew Werner*
 
 ## Lab10
 ---
-### Electrical Engineering major and Computer Science Minor at Stevens Institue of Technology
+### Electrical Engineering major and Computer Science Minor at Stevens Institute of Technology
 **Current courses:**
 1. EE-322
 2. EE-448
