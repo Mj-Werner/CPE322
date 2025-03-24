@@ -22,7 +22,7 @@ Written and designed by *Matthew Werner*
 
 ## [Lab6 - Node.js and Pystache](lab6)
 
-## Lab7
+## [Lab7 - ThingSpeak and Google Sheets](lab7)
 
 ## Lab8
 
