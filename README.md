@@ -28,7 +28,7 @@ Written and designed by *Matthew Werner*
 
 ## [Lab9 - Yang](lab9)
 
-## Lab10
+## [Lab10 - Blockchain](lab10)
 ---
 ### Electrical Engineering major and Computer Science Minor at Stevens Institute of Technology
 **Current courses:**
