@@ -1,5 +1,5 @@
 # Lab 9 - YANG
-In this lab we used the [Yang](https://github.com/mbj4668/pyang) to generate different [UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/) diagram automatically.
+In this lab, we used the [Yang](https://github.com/mbj4668/pyang) to generate a [UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/) diagram automatically.
 
 ## Downloading Software
 ```Pyang and plantum1 install```
@@ -18,5 +18,5 @@ $ python3 -m plantuml intrusiondetection.uml
 ```
 This will create a .png file that will hold the UML design.
 
-## Intrusiondectection.png
-![]()
+## intrusiondectection.png
+![intrusiondetection.png](intrusiondetection.png)
