@@ -24,9 +24,9 @@ Written and designed by *Matthew Werner*
 
 ## [Lab7 - ThingSpeak and Google Sheets](lab7)
 
-## Lab8
+## [Lab8 - Data Analysis](lab8)
 
-## Lab9
+## [Lab9 - Yang](lab9)
 
 ## Lab10
 ---
