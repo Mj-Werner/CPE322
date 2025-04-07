@@ -89,7 +89,8 @@ Hash: bb882c261cf0f51e1a3589dd4d9c27a314485b490bf29664c040f86a227e4b50
 ## Running a snakecoin server with [snakecoin-server-full-code.py](snakecoin-server-full-code.py)
 ![snakecoin-server-full-code.pyfig1.png](snakecoin-server-full-code.pyfig1.png)
 
-After Mining the Transaction.
+### After Mining the Transaction
+
 ![snakecoin-server-full-code.pyfig2.png](snakecoin-server-full-code.pyfig2.png)
 
 ## Python Blockchain App
@@ -99,7 +100,7 @@ This is another demonstration of how the blockchain works. In this section, we d
 ![runningserver](runningserver.png)
 
 ### Mining Confirmation
-![miningconfrimation](mineconfrimation.png)
+![miningconfrimation](mineconfirmation.png)
 
 ### Post Mined on Site
 ![postmined](postmined.png)
