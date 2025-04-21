@@ -5,7 +5,7 @@ Therefore, I developed a formula to simulate the temperature shift in Excel to h
 ## [plt_final.py](plt_final.py)
 
 ### pl_finalplot1
-
+![pl_finalplot1](pl_finalplot1.png)
 
 ### pl_finalplot2
 ![pl_finalplot2](pl_finalplot2.png)
