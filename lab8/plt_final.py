@@ -9,7 +9,7 @@ y = data['Temperature C']
 # Time series
 plt.plot(y, 'r', lw=2, label='Temperature C')
 plt.plot(x, 'b', lw=2, label='CPU Usage %')
-plt.xticks([209,452,703,957],['21:00','21:30','22:00','22:30'])
+plt.xticks([0,15,30,45],['15:15','15:30','15:45','16:00'])
 plt.xlabel('Time')
 plt.legend(loc='lower center')
 plt.title('Werner 4-7-2025')
